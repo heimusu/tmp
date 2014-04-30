@@ -362,4 +362,4 @@ if __name__ == "__main__":
     print("x ",str(x))
     print("area ",str(k_sum))
 
-
+    f.close()
